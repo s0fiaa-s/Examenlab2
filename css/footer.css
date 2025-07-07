@@ -1,0 +1,17 @@
+footer {
+    width: 800px;
+    height: 60px;
+    border: 2px solid black;
+}
+
+div img {
+
+    width: 13px;
+    height: 13px;
+}
+
+.fo {
+
+    margin-top: 20px;
+    margin-left: 350px;
+}
